@@ -66,4 +66,3 @@ Clone o repositório e instale as dependências necessárias.
 ```sh
 git clone https://github.com/afm97/numericalMethods.git
 cd numericalMethods
-pip install -r requirements.txt
