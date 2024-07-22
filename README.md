@@ -47,12 +47,6 @@ Este projeto contém diversas implementações de métodos numéricos cursados n
 - Método da Secante
 - Método da Secante Modificada
 
-### Otimização de Sistemas
-
-- Método da Aproximação Quadrática
-- Método da Busca Dicotômica
-- Método da Fibonacci
-
 ## Pré-requisitos
 
 Antes de instalar e usar este projeto, você precisará ter o seguinte software instalado:
